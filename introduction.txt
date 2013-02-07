@@ -1,4 +1,4 @@
-# Introduction
+# Introduction 
 
 We would like to start this book by explaining how this project was born. Several years ago when Luis started working as a Localization Manager, he couldn't find any information what so ever about the topic. He did however find a book called “A Practical Guide to Localization” by Bert Esselink. The book gave him great insight but somehow seemed too general, lacking practical examples and not helping him much on his daily tasks.
 
